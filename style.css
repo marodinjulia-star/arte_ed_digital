@@ -56,7 +56,7 @@ header {
 
  img {
     width: 100%;
-    ,ax-width: 600px;
+    max-width: 600px;
     display: block;
     margin: auto;
     border-radius: 12px;
