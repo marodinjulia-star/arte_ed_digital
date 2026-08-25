@@ -69,7 +69,7 @@ header {
     margin-top: 8px;
  }
 
- card {
+ .card {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
@@ -77,13 +77,13 @@ header {
     border-radius: 10px;
  }
 
- card h3 {
+ .card h3 {
     margin-top: 0;
  }
  footer {
     background-color: #222222;
     color: white;
     text-align: center;
-    padding: 20px
-    margin-top :30px;
- }
+    padding: 20px;
+    margin-top: 30px;
+}
